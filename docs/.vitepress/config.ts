@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import llmstxt from "vitepress-plugin-llms";
-import { teekConfig } from "./teekConfig";
+import { teekConfig } from "./teek-config";
 // 本地 Teek 主题包引用（与 Teek 在线主题包引用 二选一）
 import { version } from "../../packages/teek/version";
 

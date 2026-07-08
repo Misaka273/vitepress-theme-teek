@@ -1,5 +1,17 @@
 # vitepress-plugin-sidebar-resolve
 
+## 1.2.3
+
+### Patch Changes
+
+- 文件名修改
+
+## 1.2.2
+
+### Patch Changes
+
+- rewrites 模式下，同一目录下的文件支持不同 rewrites 前缀设置
+
 ## 1.2.1
 
 ### Patch Changes

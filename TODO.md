@@ -1,6 +1,6 @@
 # TODO
 
-## v1.5.2
+## v1.6.1
 
 ### 代办
 
@@ -8,14 +8,9 @@
 
 ### issue
 
-### 已完成
+- [#204](https://github.com/Kele-Bingtang/vitepress-theme-teek/issues/204)：`frontmatter.date` 不存在时，获取文件的最后更新时间而不是当前逻辑的文件创建时间
 
-- 修复登录成功后反复跳转登录页问题
-- 修复 `frontmatter.comment` 为 `true` 时评论区不加载问题
-- 修复面包屑跳转目录页链接不对问题
-- 修复一级标题带有 `<xxx>` 时页面无法渲染问题
-- 修复登录页 `layout: TkLoginPage` 开启失效问题
-- 修复扩展主题色在切换深色与浅色模式时，部分容器的颜色不能自动刷新 #194
+### 已完成
 
 ## AR
 

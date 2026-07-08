@@ -1,5 +1,5 @@
 import Teek from "vitepress-theme-teek";
-import TeekLayoutProvider from "./components/TeekLayoutProvider.vue";
+import TeekLayoutProvider from "./components/teek-layout-provider.vue";
 
 // 🎨 图片查看器功能激活
 import "./composables/dd-image/dd-image.scss"; // ⬅️ 引入图片查看器样式
